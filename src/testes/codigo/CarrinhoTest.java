@@ -1,4 +1,4 @@
-package testes;
+package testes.codigo;
 
 import codigo.Carrinho;
 import java.util.ArrayList;
@@ -19,7 +19,7 @@ import produto.Produto;
  *
  * @author Aluno
  */
-public class carrinhoTeste {
+public class CarrinhoTest {
 
     //Esses testes são feitos com o JUnit4
 

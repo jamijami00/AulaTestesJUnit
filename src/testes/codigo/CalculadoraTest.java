@@ -1,4 +1,4 @@
-package testes;
+package testes.codigo;
 
 import codigo.Calculadora;
 import static junit.framework.Assert.*;
@@ -14,7 +14,7 @@ import org.junit.Test;
  *
  * @author Aluno
  */
-public class calculadoraTeste {
+public class CalculadoraTest {
 
     Calculadora calc = new Calculadora();
 
